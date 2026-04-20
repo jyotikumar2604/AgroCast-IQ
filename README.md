@@ -1,10 +1,9 @@
 AgroCast IQ
 
 AgroCast IQ is an intelligent crop advisory system that helps farmers and users make smart irrigation decisions based on real-time weather conditions. The application analyzes environmental data and suggests when to water crops, improving productivity while conserving water.
+
 Project Overview
-
 Agriculture is highly dependent on weather conditions. Unpredictable climate patterns often lead to:
-
 Over-irrigation 🚿
 Water wastage 💧
 Reduced crop yield 🌾
